@@ -1,0 +1,13 @@
+#map { height: 600px; width: 100%; }
+.legend {
+    background: white;
+    padding: 10px;
+    line-height: 1.5em;
+    font-size: 12px;
+}
+.legend span {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    margin-right: 5px;
+}
